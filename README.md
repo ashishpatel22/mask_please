@@ -1,7 +1,5 @@
 # Mask_please
-This us May, 2020 whis would have special mention in the history due to Corona Virus (Covid-19). The world is under lockdown and till the time vaccine is discovered there is need to find out ways how people can resume work and not making mistakes which can let the Corona virus spread. Some of the key measures are wearing mask and maintaing physical (social) distancing.
-
-This is a sample program to detect if a person is wearing mask or not, can be extended to detect physical distance too and raise an alarm in case of any violation.
+This is May, 2020,the time which would have special mention in the history due to Corona Virus (Covid-19). The world is under lockdown and till the time vaccine is discovered there is need to find out ways how people can resume work and not making mistakes which can let the Corona virus spread. Some of the key measures are wearing mask and maintaing physical (social) distancing. This is a sample program to detect if a person is wearing mask or not, can be extended to detect physical distance too and raise an alarm in case of any violation.
 
 Thanks to Adrian Rosebrock for providing the base program. Please refer below link to get the details
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
