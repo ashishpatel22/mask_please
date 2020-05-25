@@ -3,7 +3,7 @@ This us May, 2020 whis would have special mention in the history due to Corona V
 
 This is a sample program to detect if a person is wearing mask or not, can be extended to detect physical distance too and raise an alarm in case of any violation.
 
-Thanks to Adrian Rosebrock for providing the base application. Please refer below link to get the details
+Thanks to Adrian Rosebrock for providing the base program. Please refer below link to get the details
 https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 
 Somehow the application was not supporting to detect multiple faces while processing video feed and it is fixed here. Contributors can enhance this program to make it more useful to if anyone is not wearing mask or not maintaing physical (social) distancing in public areas or at shops or offices.
